@@ -1,0 +1,25 @@
+=> Complete the following questions with numbers and string arrays
+
+1. How do you find the length of a string in JavaScript?
+2. How can you add a new element to the end of an array using JavaScript?
+3. How do you remove the last element from an array in JavaScript?
+4. How can you remove the first element from an array in JavaScript?
+5. How do you add a new element to the beginning of an array in JavaScript?
+6. How can you find the index of a specific element in a string?
+7. How do you check if a string contains a specific substring in JavaScript?
+8. How can you remove elements from an array at a specific index in JavaScript?
+9. How do you add elements to an array at a specific index in JavaScript?
+10. How can you find the length of an array in JavaScript?
+11. How do you add multiple elements to the end of an array in JavaScript?
+12. How can you remove multiple elements from the end of an array in JavaScript?
+13. How do you remove multiple elements from the beginning of an array in JavaScript?
+14. How can you add multiple elements to the beginning of an array in JavaScript?
+15. How do you find the index of the first occurrence of a substring in a string?
+16. How can you check if a string includes a specific character in JavaScript?
+17. How do you remove a specific number of elements from an array starting at a specific index?
+18. How can you add a specific number of elements to an array starting at a specific index?
+19. How do you find the length of a string after removing whitespace from both ends?
+20. How can you check if an array includes a specific element in JavaScript?
+
+21. How do you hide part of a mobile number in JavaScript?
+22. How do you hide part of an email address in JavaScript?
