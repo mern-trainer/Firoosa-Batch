@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // variable => container => store data
+        // indentifier => name of variable, function, class, object => 
+        // keyword => reserved word => can't use as identifier
+        // DOM => Document Object Model => programming interface for web documents => style, content, structure
+        // function => block of code => reusable => perform specific task
+        // string => collection of characters => "Hello" => 'Hello' => `Hello`
+
+        const text = "John";
+
+        // string methods
+
+        // length => return length of string
+        // toUpperCase => convert string to uppercase
+        // toLowerCase => convert string to lowercase
+        // includes => check if string contains specific text => return boolean
+        // slice => extract part of string => return new string
+        // indexOf => return index of first occurence of specific text => return -1 if not found
+        // replace => replace specific text with new text => return new string
+        // replaceAll => replace all occurence of specific text with new text => return new string
+
+        console.log(text.length);
+        console.log(text.toUpperCase())
+        console.log(text.toLowerCase())
+        console.log(text.includes("John"))
+        
+        const res = text.slice(1,3);
+        console.log(res)
+
+        console.log(text.indexOf("h"))
+
+        const string = "Hello World";
+        console.log(string.replace("l", "i"))
+        console.log(string.replaceAll("l", "i"))
+        
+
+    </script>
+</body>
+</html>
