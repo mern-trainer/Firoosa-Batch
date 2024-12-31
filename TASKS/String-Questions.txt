@@ -22,4 +22,5 @@
 20. How can you check if an array includes a specific element in JavaScript?
 
 21. How do you hide part of a mobile number in JavaScript?
+
 22. How do you hide part of an email address in JavaScript?
